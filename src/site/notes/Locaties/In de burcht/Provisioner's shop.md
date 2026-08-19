@@ -15,3 +15,5 @@ Een plaats in [[Locaties/In de burcht/Het kasteel van Winvarle\|Het kasteel van 
 	- ...
 - Medkit
 - **...**
+
+De eigenaar is [[Ruckus\|Ruckus]]
