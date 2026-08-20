@@ -5,9 +5,9 @@
 
 Alexander is een human rogue met 10 HP. [[Players/The party\|The party]]
 
-|            |       |
-| ---------- | ----- |
-| HP         | 10    |
-| RACE       | HUMAN |
-| CLASS      | ROGUE |
-| BACKGROUND | ?     |
+|            |            |
+| ---------- | ---------- |
+| HP         | 10         |
+| RACE       | HUMAN      |
+| CLASS      | ROGUE      |
+| BACKGROUND | ENTERTAINR |

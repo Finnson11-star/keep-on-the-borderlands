@@ -9,4 +9,4 @@ Barden is een dwarf fighter. Hij wordt gespeeld door lukas en heeft nu armor cla
 | HP         | 12      |
 | RACE       | DWARF   |
 | CLASS      | FIGHTER |
-| BACKGROUND | ?       |
+| BACKGROUND | SOLDIER |

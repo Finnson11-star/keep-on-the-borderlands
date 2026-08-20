@@ -10,4 +10,9 @@ Luz is een vrouwelijke, human wizard. Ze heeft 7HP en kan geen armor dragen. Ged
 | HP         | 7      |
 | RACE       | HUMAN  |
 | CLASS      | WIZARD |
-| BACKGROUND | ?      |
+| BACKGROUND | SAGE   |
+
+
+---
+
+![luz 1.jpg](/img/user/Players/Pictures/luz%201.jpg)
