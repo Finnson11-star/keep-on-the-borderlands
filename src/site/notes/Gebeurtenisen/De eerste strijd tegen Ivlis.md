@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gebeurtenisen/de-eerste-strijd-tegen-ivlis/","title":"hoi","dg-note-properties":{"title":"hoi"}}
+{"dg-publish":true,"permalink":"/gebeurtenisen/de-eerste-strijd-tegen-ivlis/","dg-note-properties":{}}
 ---
 
 De eerste keer dat we [[NPC's/Ivlis\|Ivlis]] tegenkwamen en ook de eerste grote battle van de [[Campaign\|Campaign]]. We vonden haar in [[Locaties/Het bos\|Het bos]] samen met wat [[NPC's/Cultists\|Cultists]]. Het was een close call geluk kon [[Players/Helion Drathas (Finn)\|Helion Drathas (Finn)]] [[Players/The party\|The party]] healen. We doden een aantal [[NPC's/Cultists\|Cultists]] en brachten [[NPC's/Ivlis\|Ivlis]] zeer laag, maar ze kon nog net op tijd ontsnappen. Aan het einde van de strijd hadden we wat [[Items/Cultist robes\|Cultist robes]] van overleden [[NPC's/Cultists\|Cultists]]. Deze strijd kan worden gezien als een belangerijk doorbreekpunt in de [[Campaign\|Campaign]].
