@@ -17,3 +17,4 @@ Een plaats in [[Locaties/In de burcht/Het kasteel van Winvarle\|Het kasteel van 
 - **...**
 
 De eigenaar is [[NPC's/Ruckus\|Ruckus]]
+Fred is gekickt in sessie 1
