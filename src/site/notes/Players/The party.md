@@ -3,7 +3,7 @@
 ---
 
 Alle charachters zijn:
-[[Players/Alexander Hamilton (Briek)\|Alexander Hamilton (Briek)]]
+[[NPC's/Alexander Hamilton (Briek)\|Alexander Hamilton (Briek)]]
 [[Players/Barden (Lucas)\|Barden (Lucas)]]
 [[Players/Fred (Emily)\|Fred (Emily)]]
 [[Players/Helion Drathas (Finn)\|Helion Drathas (Finn)]]
