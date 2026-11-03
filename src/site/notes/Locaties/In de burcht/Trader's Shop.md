@@ -3,3 +3,6 @@
 ---
 
 Een winkel in [[Locaties/In de burcht/Het kasteel van Winvarle\|Het kasteel van Winvarle]] waar je wapens en armor kan kopen. Je kunt er ook een schild kopen. De baas is [[NPC's/Oleira\|Oleira]]
+
+Sessie 2:
+Even gepasseerd --> niks gekocht

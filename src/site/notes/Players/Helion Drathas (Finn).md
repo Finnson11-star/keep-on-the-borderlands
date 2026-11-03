@@ -10,10 +10,11 @@ Helion Drathas, Helion in het kort, is een elf cleric die wordt gespeeld door Fi
 
 |            | Helion  |
 | ---------- | ------- |
-| HP         | 8       |
+| HP         | 13      |
 | RACE       | ELF     |
 | CLASS      | CLERIC  |
 | BACKGROUND | ACOLYTE |
+| LEVEL      | 2       |
 
 ---
 

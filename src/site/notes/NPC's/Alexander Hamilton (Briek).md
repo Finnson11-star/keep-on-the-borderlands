@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/npc-s/alexander-hamilton-briek/","dg-note-properties":{}}
 ---
 
-Alexander Hamilton is dood verklaart op 22 september 2968. Volgens het rapport stierf hij in de [[Locaties/Fens\|Fens]] aan de rivier. Hij ging het duel aan en keerde niet meer terug. Zijn items en nalatenschap zijn weg.
+Alexander Hamilton is dood verklaart op 22 september 2968. Volgens het rapport stierf hij in de [[Locaties/Outdoors/Fens\|Fens]] aan de [[Locaties/Outdoors/Rivier\|Rivier]]. Hij ging het duel aan en keerde niet meer terug. Zijn items en nalatenschap zijn weg, want zijn lichaam werd in de [[Locaties/Outdoors/Rivier\|Rivier]] gegooid.
 
-![Pasted image 20261101150952.jpg](/img/user/Pasted%20image%2020261101150952.jpg)
+![RIP Briek.jpg](/img/user/Pictures/RIP%20Briek.jpg)
 
 
 Alexander is een human rogue met 0 HP. [[Players/The party\|The party]]
@@ -15,3 +15,4 @@ Alexander is een human rogue met 0 HP. [[Players/The party\|The party]]
 | RACE       | HUMAN      |
 | CLASS      | ROGUE      |
 | BACKGROUND | ENTERTAINR |
+| LEVEL      | 1          |
